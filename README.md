@@ -28,9 +28,9 @@ What’s the average Premium App price?
 
 googleplaystore.csv public datase on google play store apps.
 
-A notebook used to extract answers for the abovee questions.
+A notebook used to extract answers for the above questions.
 
-An html version of the notebook also included
+An html version of the notebook also included.
 
 
 ## Analysis<a name="analysis"></a>
