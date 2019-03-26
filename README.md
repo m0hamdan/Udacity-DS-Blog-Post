@@ -18,7 +18,7 @@
 A Udacity Nanodegree blog post project.  
 
 How apps are distributed among categories?
-What are the most popular categories in the play store? And how this has changed over past few years? 
+What are the most popular categories in the play store? How this changed over the past few years? 
 What are the top installed vs. Rated Freemium apps?
 What are the top installed vs. Rated Premium apps?
 What’s the average Premium App price?
@@ -28,7 +28,7 @@ What’s the average Premium App price?
 
 googleplaystore.csv public datase on google play store apps.
 
-A notebook used to extract answers for the aboce questions.
+A notebook used to extract answers for the abovee questions.
 
 An html version of the notebook also included
 
