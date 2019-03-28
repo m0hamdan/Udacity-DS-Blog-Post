@@ -3,7 +3,7 @@
 1. [Dependencies](#depend)
 2. [Project Motivation](#motivation)
 3. [Content](#files)
-4. [Analysis](#analysis)
+4. [Results](#analysis)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Dependencies <a name="depend"></a>
@@ -33,7 +33,13 @@ A notebook used to extract answers for the above questions.
 An html version of the notebook also included.
 
 
-## Analysis<a name="analysis"></a>
+## Results <a name="analysis"></a>
+Family, Game and Tools categories represent ~38% of the apps in the dataset, while Game, Communication, Productivity, Social, Tools and Family are the most downloaded app categories.
+
+We found out there is more demand on Communication and Social categories whereas demand is decreasing for Photography, Sports and Video_Players.
+
+We've also showed the top rated & installed apps.
+Finally, We looked at price distribution and we noticed that the majority of the apps cost less the $10.
 
 The main findings of the code can be found here https://medium.com/@mohammed0hamdan/322767a8d154
 
